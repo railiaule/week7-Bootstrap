@@ -1,0 +1,37 @@
+.carousel-item img {
+    height: 75vh;
+    object-fit: cover;
+    object-position: middle;
+}
+
+.carousel-control-prev {
+    left: 10%;
+}
+
+.carousel-control-next {
+    right: 10%;
+}
+
+.rounded-circle {
+    object-fit: cover;
+}
+
+.row {
+    margin: 0; 
+}
+
+.marketing {
+    text-align: center;
+}
+
+.features h2 {
+    margin-bottom: 5rem;
+}
+
+.features img {
+    width: 350px;
+}
+
+.float-right {
+    float: right;
+}
